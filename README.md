@@ -10,7 +10,7 @@ A simple, interactive website header that mimics a phone notch. It starts as a b
 ## Screenshots
 
 ### Default State (Collapsed)
-![Menu Collapsed](./menu-collapsed.png)
+![Menu Collapsed](./menu-collapse.png)
 
 ### Hover State (Expanded)
 ![Menu Expanded](./menu-expanded.png)
